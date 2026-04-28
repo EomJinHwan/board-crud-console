@@ -65,20 +65,6 @@ src/
 - 객체지향 프로그래밍
 - 콘솔 입출력
 
-## 실행 방법
-
-터미널에서 아래 명령어로 컴파일합니다.
-
-```bash
-javac -encoding UTF-8 -d out src/Main.java src/post/*.java src/user/*.java src/ui/*.java
-```
-
-컴파일 후 실행합니다.
-
-```bash
-java -cp out Main
-```
-
 ## 구현하며 연습한 점
 
 - UI, Service, Repository 역할 분리
